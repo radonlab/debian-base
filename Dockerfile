@@ -1,4 +1,5 @@
-FROM debian:buster-slim
+ARG VARIANT="buster"
+FROM debian:${VARIANT}-slim
 
 LABEL maintainer="skyler.ac.lee@gmail.com"
 
