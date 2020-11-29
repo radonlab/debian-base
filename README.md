@@ -1,5 +1,7 @@
 # Debian Base
 
+[![Build Status](https://img.shields.io/docker/cloud/build/radonlab/debian-base)](https://hub.docker.com/r/radonlab/debian-base/builds)
+
 A Debian image with apt mirror speed up
 
 ```
